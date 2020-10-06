@@ -230,7 +230,7 @@ creates a single place for gems to be required and versions to be specified.
 - Need the Sinatra gem for your project? Add `gem 'sinatra'`to your Gemfile.
 - Need the Sinatra gem, but at version 1.4.5? Add `gem 'sinatra', '1.4.5'` to your Gemfile.
 - Need the Sinatra gem at a version higher than 1.4, but less than 1.5? Add `gem 'sinatra', '~> 1.4.0'`
-- Need to use the `sinatra` command that came with that gem you just installed? Run it _via_ Bundler with `bundle exec sinatra`.
+- Need to use the `sinatra` command that came with that gem you just installed? Run it _via_ Bundler with `bundle exec sinatra`
 
 [Read more here](http://bundler.io/gemfile.html)
 
